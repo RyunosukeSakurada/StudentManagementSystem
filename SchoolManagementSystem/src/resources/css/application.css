@@ -1,0 +1,8 @@
+
+#anchorPane{
+    -fx-background-image: url('../images/school.jpg');
+}
+
+#login {
+    -fx-background-color: rgba(137, 137, 150, 0.427);
+}
